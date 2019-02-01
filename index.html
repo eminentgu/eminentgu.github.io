@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>放假准备</title>
+<title>倒计时</title>
 <style type="text/css">
         @import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400);
         body {
@@ -85,8 +85,10 @@
         }
     </style>
 </head>
+
+
 <body>
-<h1 align="center" style="margin-top:150px;">距离放寒假还有.....</h1>
+<h1 align="center" style="margin-top:150px;">距离开学还有.....</h1>
 <ul class="countdown">
 <li> <span class="days">00</span>
 <p class="days_ref">days</p>
@@ -106,15 +108,47 @@
 </ul>
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/jquery.downCount.js"></script>
-<h2 align="center" style="margin-top:150px;">GitHub保佑g(x)考试......</h2>
+<h2 align="center" style="margin-top:150px;">GitHub保佑g(x)......</h2>
 <!-- <script class="source" type="text/javascript" > -->
+        
 <script type="text/javascript" >
         $('.countdown').downCount({
-            date: '1/17/2019 00:00:00',
+            date: '2/15/2019 00:00:00',
             offset: +8
         }, function () {
-            alert('放假!');
+            alert('开学!');
         });
     </script>
+	    <script type="text/javascript">
+    /* 鼠标特效 */
+    var a_idx = 0;
+    jQuery(document).ready(function($) {
+        $("body").click(function(e) {
+            var a = new Array("富强", "民主", "文明", "和谐", "自由", "平等", "公正" ,"法治", "爱国", "敬业", "诚信", "友善");
+            var $i = $("<span />").text(a[a_idx]);
+            a_idx = (a_idx + 1) % a.length;
+            var x = e.pageX,
+            y = e.pageY;
+            $i.css({
+                "z-index": 999999999999999999999999999999999999999999999999999999999999999999999,
+                "top": y - 20,
+                "left": x,
+                "position": "absolute",
+                "font-weight": "bold",
+                "color": "#33FFFF"
+            });
+            $("body").append($i);
+            $i.animate({
+                "top": y - 180,
+                "opacity": 0
+            },
+            1500,
+            function() {
+                $i.remove();
+            });
+        });
+    });
+    </script>
+
 </body>
 </html>
