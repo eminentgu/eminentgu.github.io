@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="format-detection" content="telephone=no">
+<title></title>
+</head>
+<style type="text/css">
+body{
+overflow-x:hidden;
+}
+img{
+width: 100%;
+display: block;
+}
+</style>
+<body>
+<head>
+<meta charset="utf-8">
+<title>g(x)的主页</title>
+<link rel="stylesheet" href="css/normalize.css">
+<link rel="stylesheet" href="css/style.css">
+<style type="text/css">
+body {
+	background-image: url(img/background.jpg);
+}
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+</head>
+<body>
+<div class="wrapper">
+<header class="header">
+<div class="full-center">
+<h1 class="header__heading">︿(￣︶￣)︿</h1>
+<h3 class="subscribe">哇鸭鸭,你竟然来看我啦,等撩鸭(*^▽^*)</h3>
+<h4 class="subscribe">QQ:623311366  Mail:EminentGuXiang@protonmail.com</h4>
+</div>
+</header>
+<section>
+</section>
+<section>
+<script src="http://www.jq22.com/jquery/jquery-1.10.2.js"></script>
+<script src="src/circleMagic.js"></script>
+<script>
+  window.onload = function() {
+    $(".btn").on("click", function (e) {
+      e.preventDefault();
+      var top = window.innerHeight;
+      console.log(top);
+      $('body,html').animate({scrollTop: top + 20}, 1200);
+    });
+
+    $('.header').circleMagic({
+      radius: 35,
+      density: .1,
+      color: 'rgba(255,255,255, .4)',
+      clearOffset: .9
+    });
+  }
+</script>
+</body>
+</html>
