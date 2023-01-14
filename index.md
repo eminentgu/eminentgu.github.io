@@ -10,6 +10,10 @@
 
 ## 我的github项目
 
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=eminentgu&show_icons=true&theme=light&count_private=true)
+
+## ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eminentgu&theme=light&layout=compact)
+
 * [主页](https://github.com/eminentgu)
 
 * [colourCapture](https://github.com/eminentgu/colourCapture)：基于opencv的颜色追踪并且绘出轨迹【已停止维护】
