@@ -1,25 +1,27 @@
-#Hi,Glad to meet you here
+# Hi,Glad to meet you here
 
 >keep it up till the dawn !
 
-##who am i
+## 总述
 
-* g(x),顾翔
-* studying at ChangShu Senior High, JiangSu Province,China.
-* Preparing for the College Entrance Exam ! (2021.6.7-9)
-* github的东西都是自己写着玩的（包括这个），有bug啥的可以找我哈～～
-* 我(显然)不长这个样子👇
+* 顾翔 xiang gu
+* 就读于南京理工大学（Nanjing University of Science and Technology）
+* 网络空间安全系数据科学与大数据技术专业
 
-![](https://gitee.com/eminentgu/eminentgu/raw/master/WechatIMG1.jpeg) 
+## 我的github项目
 
-##contact me
+* [主页](https://github.com/eminentgu)
 
-1. QQ 623311366
-2. 微信 18051789135 也是电话了哦
-3. mail EminentGuXiang@protonmail.com
-4. reddit EminentGu
-5. twitter eminentgu
-6. fb,telegram基本不在线哦。
-7. 我最爱的即刻（ '▿ ' ）👇
+* [colourCapture](https://github.com/eminentgu/colourCapture)：基于opencv的颜色追踪并且绘出轨迹【已停止维护】
+*  [Non-linear_Regression](https://github.com/eminentgu/Non-linear_Regression#readme)：几种重要的非线性回归模型，包括了局部多项式回归、样条回归及多元自适应样条回归【已完成】
+* [WeatherForConky](https://github.com/eminentgu/WeatherForConky)：爬取天气信息并且利用conky展示在桌面上的小组件【已停止维护】
+* [swap-demo-tutorial](https://github.com/eminentgu/)：alchemy的每周挑战，一个简单的虚拟货币兑换dapp
 
-![](https://gitee.com/eminentgu/eminentgu/raw/master/jike_473842591384550_pic.jpg) 
+## 联系方式
+
+1. 电话：18051789135
+2. 微信 ：18051789135
+3. QQ：623311366
+4. Email： EminentGuXiang@protonmail.com
+5. Twitter：[@eminentgu](https://twitter.com/eminentgu)
+6. ETH：[iloveyou1314.eth](https://etherscan.io/address/0x5a6056e0abb25d12ba67b77970eab25800b0a47f)
