@@ -7,6 +7,7 @@
 * 顾翔 xiang gu
 * 就读于南京理工大学（Nanjing University of Science and Technology）
 * 网络空间安全系数据科学与大数据技术专业
+* [简历](https://github.com/eminentgu/eminentgu.github.io/blob/master/%E9%A1%BE%E7%BF%94921127940122.pdf)
 
 ## 我的github项目
 
