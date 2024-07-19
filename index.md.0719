@@ -24,19 +24,14 @@
         }
         h1 {
             font-size: 2.5em;
-            background: linear-gradient(90deg,green,rgb(105, 50, 135), violet,rgb(0, 191, 255));
-            -webkit-background-clip: text;
-            color: transparent;
+            color: #0056b3;
             border-bottom: 2px solid #0056b3;
             padding-bottom: 10px;
             margin-bottom: 20px;
-            text-align: center;
         }
         h2 {
             font-size: 1.5em;
-            background: linear-gradient(90deg, violet, indigo, blue, green);
-            -webkit-background-clip: text;
-            color: transparent;
+            color: #007bff;
             border-bottom: 2px solid #007bff;
             padding-bottom: 5px;
             margin-top: 30px;
@@ -53,7 +48,6 @@
         }
         .contact-info p {
             margin: 0;
-            flex: 1 1 200px;
         }
         .contact-info a {
             color: #0056b3;
@@ -73,7 +67,6 @@
             display: flex;
             flex-wrap: wrap;
             gap: 10px;
-            justify-content: center;
         }
         .publication-list, .experience-list, .reward-list, .additional-info {
             list-style: none;
@@ -81,8 +74,6 @@
         }
         .publication-list li, .experience-list li, .reward-list li, .additional-info li {
             margin-bottom: 10px;
-            padding-left: 10px;
-            text-indent: -10px;
         }
         .publication-list li:before, .experience-list li:before, .reward-list li:before, .additional-info li:before {
             content: "•";
@@ -92,30 +83,18 @@
             width: 1em;
             margin-left: -1em;
         }
-        
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Xiang Gu</h1>
         <div class="contact-info">
-            <div class="contact-item">
-                <p><strong>Phone:</strong> (+86) 15051776462</p>
-            </div>
-            <div class="contact-item">
-                <p><strong>Email:</strong> <a href="mailto:XiangGu2003@icloud.com">XiangGu2003@icloud.com</a></p>
-            </div>
-            <div class="contact-item">
-                <p><strong>Web3 Address & Social:</strong> <a href="https://app.ens.domains/iloveyou1314.eth">iloveyou1314.eth</a></p>
-            </div>
-            <div class="contact-item">
-                <p><strong>Current Location:</strong> Shanghai, China</p>
-            </div>
-            <div class="contact-item">
-                <p><a href="https://github.com/eminentgu/eminentgu.github.io/blob/master/xianggu_academic.pdf">Academic CV</a></p>
-            </div>
+            <p><strong>Phone:</strong> (+86) 15051776462</p>
+            <p><strong>Email:</strong> <a href="mailto:XiangGu2003@icloud.com">XiangGu2003@icloud.com</a></p>
+            <p><strong>Web3 Address & Website:</strong> <a href="https://app.ens.domains/iloveyou1314.eth">iloveyou1314.eth</a></p>
+            <p><strong>Current Location:</strong> Shanghai, China</p>
+            <p><a href="https://github.com/eminentgu/eminentgu.github.io/blob/master/xianggu_academic.pdf">Academic CV</a></p>
         </div>
-        
         
         <div class="section">
             <h2>Personal Statement</h2>
