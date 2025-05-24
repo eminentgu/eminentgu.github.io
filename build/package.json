@@ -1,0 +1,28 @@
+{
+  "name": "modern-personal-resume",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "build": "esbuild index.tsx --bundle --outfile=dist/assets/bundle.js --jsx=automatic --loader:.tsx=tsx --platform=browser --format=esm --minify --external:react --external:react-dom"
+    
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "esbuild": "^0.25.4",
+    "typescript": "~5.7.2",
+    "vite": "^6.2.0"
+  },
+  "description": "This contains everything you need to run your app locally.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
