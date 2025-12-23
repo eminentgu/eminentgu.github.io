@@ -8,43 +8,32 @@
     <style>
       html, body {
         scroll-behavior: smooth;
-        overflow-x: hidden; /* Prevent horizontal scrollbars */
+        overflow-x: hidden;
       }
-      /* Custom scrollbar for a more modern feel (optional) */
       ::-webkit-scrollbar {
         width: 8px;
       }
       ::-webkit-scrollbar-track {
-        background: #1e293b; /* slate-800 */
+        background: #1e293b;
       }
       ::-webkit-scrollbar-thumb {
-        background: #38bdf8; /* sky-500 */
+        background: #38bdf8;
         border-radius: 4px;
       }
       ::-webkit-scrollbar-thumb:hover {
-        background: #0ea5e9; /* sky-600 */
+        background: #0ea5e9;
       }
 
       /* Custom Animations */
       @keyframes fadeInUp {
-        from {
-          opacity: 0;
-          transform: translateY(20px);
-        }
-        to {
-          opacity: 1;
-          transform: translateY(0);
-        }
+        from { opacity: 0; transform: translateY(20px); }
+        to { opacity: 1; transform: translateY(0); }
       }
 
       .animate-fadeInUp {
-        animation-name: fadeInUp;
-        animation-duration: 0.7s;
-        animation-fill-mode: forwards; /* Keeps the state of the last keyframe */
-        animation-timing-function: ease-out;
+        animation: fadeInUp 0.7s ease-out forwards;
       }
 
-      /* Animation delay utilities */
       .animation-delay-100 { animation-delay: 0.1s; }
       .animation-delay-200 { animation-delay: 0.2s; }
       .animation-delay-300 { animation-delay: 0.3s; }
@@ -52,11 +41,6 @@
       .animation-delay-500 { animation-delay: 0.5s; }
       .animation-delay-700 { animation-delay: 0.7s; }
 
-      /* Initial state for elements that will animate */
-      .initial-hidden-translate {
-        opacity: 0;
-        transform: translateY(10px); /* Slightly different initial translate for sections */
-      }
       .initial-hero-hidden {
          opacity: 0;
       }
@@ -68,24 +52,21 @@
         left: 0;
         width: 100%;
         height: 100%;
-        z-index: -2; /* Behind light beam and content */
-        overflow: hidden; /* Contains the blobs */
+        z-index: -2;
+        overflow: hidden;
       }
 
       #background-animations-container::before,
       #background-animations-container::after {
         content: '';
         position: absolute;
-        border-radius: 50%; /* Makes them circular */
-        filter: blur(50px); /* Softens the edges significantly */
-        will-change: transform, opacity; /* Performance hint */
+        border-radius: 50%;
+        filter: blur(50px);
       }
 
       #background-animations-container::before {
-        width: 60vw; /* Responsive width */
-        height: 60vw; /* Responsive height, keep it circular */
-        max-width: 700px; /* Max size */
-        max-height: 700px; /* Max size */
+        width: 60vw;
+        height: 60vw;
         background: radial-gradient(circle, hsla(197, 80%, 55%, 0.15) 0%, transparent 70%);
         animation: blob-1-animation 45s infinite ease-in-out;
         top: 10%;
@@ -95,84 +76,152 @@
       #background-animations-container::after {
         width: 50vw;
         height: 50vw;
-        max-width: 600px;
-        max-height: 600px;
         background: radial-gradient(circle, hsla(220, 40%, 25%, 0.1) 0%, transparent 70%);
-        animation: blob-2-animation 60s infinite ease-in-out alternate; /* Alternate direction */
+        animation: blob-2-animation 60s infinite ease-in-out alternate;
         bottom: 10%;
         right: 10%;
       }
 
       @keyframes blob-1-animation {
-        0% { transform: translate(0, 0) scale(1); opacity: 0.7; }
-        25% { transform: translate(15vw, -10vh) scale(1.1); opacity: 0.9; }
-        50% { transform: translate(-10vw, 15vh) scale(0.9); opacity: 0.8; }
-        75% { transform: translate(10vw, 5vh) scale(1.05); opacity: 1; }
-        100% { transform: translate(0, 0) scale(1); opacity: 0.7; }
+        0%, 100% { transform: translate(0, 0) scale(1); }
+        50% { transform: translate(-10vw, 15vh) scale(0.9); }
       }
 
       @keyframes blob-2-animation {
-        0% { transform: translate(0, 0) scale(1); opacity: 0.6; }
-        25% { transform: translate(-12vw, 8vh) scale(0.85); opacity: 0.8; }
-        50% { transform: translate(8vw, -12vh) scale(1.1); opacity: 0.7; }
-        75% { transform: translate(-5vw, -5vh) scale(0.95); opacity: 0.9; }
-        100% { transform: translate(0, 0) scale(1); opacity: 0.6; }
+        0%, 100% { transform: translate(0, 0) scale(1); }
+        50% { transform: translate(8vw, -12vh) scale(1.1); }
       }
 
-      /* Visual Light Beam Effect */
-      #light-beam-visual {
+      /* LIGHT SIDE STYLES */
+      .jedi-glow {
+        color: #7dd3fc;
+        text-shadow: 0 0 10px rgba(125, 211, 252, 0.5), 0 0 20px rgba(125, 211, 252, 0.3);
+        animation: jedi-pulse 3s infinite ease-in-out;
+      }
+
+      @keyframes jedi-pulse {
+        0%, 100% { opacity: 0.9; text-shadow: 0 0 10px rgba(125, 211, 252, 0.4); }
+        50% { opacity: 1; text-shadow: 0 0 15px rgba(125, 211, 252, 0.7), 0 0 25px rgba(125, 211, 252, 0.4); }
+      }
+
+      /* LIGHTSABER BLADES (HORIZONTAL) */
+      @keyframes blade-grow-horizontal {
+        from { width: 0; opacity: 0; }
+        to { width: 100%; opacity: 1; }
+      }
+
+      .blade-blue {
+        height: 4px;
+        background: #fff;
+        border-radius: 4px;
+        box-shadow: 0 0 8px #0ea5e9, 0 0 15px #0ea5e9, 0 0 25px #38bdf8;
+        animation: blade-grow-horizontal 1.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+      }
+
+      .blade-red {
+        height: 6px;
+        background: #fff;
+        border-radius: 4px;
+        box-shadow: 0 0 10px #f00, 0 0 20px #f00, 0 0 40px #f00;
+        animation: blade-grow-horizontal 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+      }
+
+      /* TRANSITION EFFECTS */
+      @keyframes sith-glitch {
+        0% { transform: translate(0); filter: hue-rotate(0deg); }
+        10% { transform: translate(-4px, 4px); filter: hue-rotate(90deg); }
+        50% { transform: translate(-2px, 2px); filter: brightness(2); }
+        100% { transform: translate(0); }
+      }
+
+      .glitch-active {
+        animation: sith-glitch 0.15s infinite;
+      }
+
+      .glitch-overlay {
         position: fixed;
-        top: 0;
-        left: 50%;
-        transform: translateX(-50%);
-        width: 40vw; /* Adjust width as desired */
-        max-width: 500px; /* Maximum width */
-        height: 100vh; /* Full viewport height */
-        background: linear-gradient(
-          to bottom,
-          hsla(200, 100%, 90%, 0.12) 0%, /* Softer, lighter start */
-          hsla(200, 100%, 90%, 0.08) 40%,
-          transparent 70%
-        );
-        z-index: -1; /* Behind content, above background-animations-container */
-        pointer-events: none; /* Allows clicks to pass through */
-        will-change: opacity; /* Performance hint if opacity changes */
-      }
-      
-      /* Text Projection Effect Styles */
-      .projectable-text {
-        transition: color 0.4s ease-out, text-shadow 0.4s ease-out;
-        will-change: color, text-shadow;
+        inset: 0;
+        background: red;
+        z-index: 9999;
+        opacity: 0;
+        pointer-events: none;
+        mix-blend-mode: color-dodge;
       }
 
-      .projected-text-active {
-        color: #e0f2fe; /* Tailwind sky-100 - very light blue */
-        text-shadow: 
-          0px 3px 5px hsla(215, 50%, 20%, 0.3),  /* Darker, more direct shadow */
-          0px 6px 10px hsla(215, 50%, 20%, 0.2), /* Softer, larger shadow */
-          0px 10px 20px hsla(215, 50%, 20%, 0.15),/* Fainter, ambient shadow */
-          0 0 18px hsla(197, 80%, 75%, 0.35);     /* Subtle glow in accent color */
+      .glitch-overlay-active {
+        animation: overlay-flash 0.5s steps(3) forwards;
       }
-      
+
+      @keyframes overlay-flash {
+        0% { opacity: 0.2; }
+        100% { opacity: 1; background: #000; }
+      }
+
+      /* DARK SIDE ELEMENTS */
+      @keyframes sith-glow {
+        0%, 100% { text-shadow: 0 0 10px #f00, 0 0 20px #f00; }
+        50% { text-shadow: 0 0 20px #f00, 0 0 40px #f00; }
+      }
+
+      .sith-text {
+        color: #fff;
+        animation: sith-glow 2s infinite ease-in-out;
+      }
+
+      .nebula-red {
+        background: radial-gradient(circle at center, hsla(0, 100%, 20%, 0.1) 0%, transparent 70%);
+      }
+
+      /* Polished Sith Hilt */
+      .hilt-sith-horizontal {
+        width: 100px;
+        height: 18px;
+        background: linear-gradient(to bottom, #71717a 0%, #27272a 40%, #09090b 50%, #27272a 60%, #71717a 100%);
+        border-radius: 2px;
+        position: relative;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.8);
+        border: 1px solid #3f3f46;
+      }
+      .hilt-sith-horizontal::before {
+        content: '';
+        position: absolute;
+        left: 20px;
+        top: 0;
+        bottom: 0;
+        width: 30px;
+        background: repeating-linear-gradient(90deg, #18181b, #18181b 4px, #3f3f46 4px, #3f3f46 6px);
+      }
+      .hilt-sith-horizontal::after {
+        content: '';
+        position: absolute;
+        right: 15px;
+        top: 4px;
+        width: 6px;
+        height: 6px;
+        background: #ef4444;
+        border-radius: 50%;
+        box-shadow: 0 0 5px #ef4444;
+      }
+
     </style>
 
-<link rel="stylesheet" href="/index.css">
-  <script type="importmap">
-{
-  "imports": {
-    "react-dom/": "https://esm.sh/react-dom@^19.1.0/",
-    "react/": "https://esm.sh/react@^19.1.0/",
-    "react": "https://esm.sh/react@^19.1.0",
-    "@vitejs/plugin-react": "https://aistudiocdn.com/@vitejs/plugin-react@^5.1.2",
-    "vite": "https://aistudiocdn.com/vite@^7.2.7"
-  }
-}
-</script>
-  <script type="module" crossorigin src="/assets/index-Bnk7IrW9.js"></script>
+  <link rel="stylesheet" href="/index.css">
+    <script type="importmap">
+    {
+      "imports": {
+        "react-dom/": "https://esm.sh/react-dom@^18.3.1/",
+        "react/": "https://esm.sh/react@^18.3.1/",
+        "react": "https://esm.sh/react@^18.3.1",
+        "@vitejs/plugin-react": "https://aistudiocdn.com/@vitejs/plugin-react@^4.3.1",
+        "vite": "https://aistudiocdn.com/vite@^5.3.1"
+      }
+    }
+    </script>
+  <script type="module" crossorigin src="/assets/index-DSSfx84M.js"></script>
 </head>
-  <body class="bg-slate-900 text-slate-100">
+  <body class="bg-slate-900 text-slate-100 transition-colors duration-500">
+    <div id="glitch-screen-overlay" class="glitch-overlay"></div>
     <div id="background-animations-container"></div>
-    <div id="light-beam-visual"></div> {/* Added light beam element */}
     <div id="root"></div>
   </body>
 </html>
