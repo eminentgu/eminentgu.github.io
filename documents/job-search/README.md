@@ -1,10 +1,10 @@
 # 香港求职：全部名单与当前进度
 
-更新日期：2026-10-23。此页是当前进度入口；历史文件中的旧排期、状态和筛选建议如有冲突，以此页及最新用户确认记录为准。
+更新日期：2026-10-25（候选表新增OCBC、CBI；已提交总数见下方补充）。此页是当前进度入口；历史文件中的旧排期、状态和筛选建议如有冲突，以此页及最新用户确认记录为准。
 
 ## 当前申请进度
 
-共9家已确认提交。未回复不等于拒绝；下列状态按用户报告整理，没有访问邮箱确认新结果。
+共9家已确认提交（下表）；另有10月23–24日提交的Metabit、Moomoo AI Agent Engineer、HKTV149、QRT、Arup HON0003VN、MTR 260000UY等，累计16份，详见submissions/。未回复不等于拒绝；下列状态按用户报告整理，没有访问邮箱确认新结果。
 
 |公司|岗位/方向|最新已知进度|日期说明|
 |---|---|---|---|
@@ -23,7 +23,7 @@
 - 每天至少2份正式申请；只推荐JD明确Graduate / Fresh Graduate / Final-year且资格匹配的岗位。
 - 优先Hactl类似的成熟企业内部IT、应用开发和业务技术团队；稳定性及低竞争不作保证。
 - 到岗时间不再作为筛除条件；毕业时间、可到岗时间、工作权如实填写。
-- 用户明确不投BOCHK、Mastercard、BlackRock。Marshall Wace移出主投；Intact及未明确FG的HKCLR岗位不进入主投。
+- 用户明确不投BOCHK、Mastercard、BlackRock；不投Management Trainee；优先稳定、大型雇主。HSBC已投，集团（含恒生）每年只收一份申请。Marshall Wace移出主投；Intact及未明确FG的HKCLR岗位不进入主投。
 - 香港办公室、香港上市与香港具体招聘岗位不是同一回事。待研究企业不等于已确认香港FG空缺。
 
 ## 下一批候选（尚未收到已投确认）
@@ -32,7 +32,9 @@
 
 |建议次序|公司/岗位|类型与注意事项|截止/入口|
 |---|---|---|---|
-|1|CMB Wing Lung — IT Graduate Trainee, Application Development|专门毕业生项目，银行内部开发；尚未确认已投|未公布；[官方JD](https://www.cmbwinglungbank.com/wlb_corporate/hk/about-us/careers/job-openings/it-graduate-trainee.html)，hrp@cmbwinglungbank.com，简历+求职信|
+|1|CMB Wing Lung — IT Graduate Trainee, Application Development|专门毕业生项目，银行内部开发；2026-10-25复核官网仍开放；尚未投|未公布；[官方JD](https://www.cmbwinglungbank.com/wlb_corporate/hk/about-us/careers/job-openings/it-graduate-trainee.html)，hrp@cmbwinglungbank.com，简历+求职信|
+|1b|OCBC Bank (Hong Kong) — Graduate Talent Programme 2027|24个月轮岗毕业生项目（非MT），可选Operations & Technology方向；接受本科/硕士及2年以下经验；估计月薪约HK$14k–16k（第三方估算）|2026-10-20于Jobsdb发布，截止未公布；[职位资料](https://www.finexcareers.com/jobs/jobsdb/95378639/graduate-talent-programme-2027-ocbc-bank-hong-kong-limited)|
+|1c|CBI (Central Business Information) — Application Developer|接受FG；Python/数据抓取/应用开发；公司约11–50人，规模较小；Jobsdb对Hark浏览器封锁|[Jobsdb](https://hk.jobsdb.com/job/94875893)；或填[申请表](https://cbil.com.hk/images/EMPAPPFRM.pdf)连简历电邮cbijob@cbil.com.hk|
 |2|HKTV / HKTVmall — Programmer, Backend / Full Stack, HKTV149|明确欢迎FG；申请Programmer级别，接受项目/实习经历|系统显示2034-06-25，不能当作可靠业务截止；[申请](https://applynow.net.au/jobs/HKTV149-programmer-senior-programmer-backend-full-stack)|
 |条件匹配再投|ASMPT — Software Engineer|明确欢迎FG/IANG；要求C/C++应用编程、多线程、OOP，不能由Python经历推定满足|未公布；[雇主招聘](https://hk.jobsdb.com/job/91482013)|
 |AI方案备选|Macroview / HGC — Solution Engineer, AI Automation|明确欢迎FG；AI Agent/PoC相关，但偏客户方案与售前|未公布；[雇主招聘](https://hk.jobsdb.com/job/95146511)|
