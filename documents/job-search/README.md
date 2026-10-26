@@ -1,6 +1,6 @@
 # 香港求职：全部名单与当前进度
 
-更新日期：2026-10-25（候选表新增OCBC、CBI；已提交总数见下方补充）。此页是当前进度入口；历史文件中的旧排期、状态和筛选建议如有冲突，以此页及最新用户确认记录为准。
+更新日期：2026-10-26（国泰岗位名称补全；机管局IT Trainee 2027已开放，代填中）。此页是当前进度入口；历史文件中的旧排期、状态和筛选建议如有冲突，以此页及最新用户确认记录为准。
 
 ## 当前申请进度
 
@@ -12,7 +12,7 @@
 |HSBC|此前已投毕业生项目|已投，测试完成，等待结果|提交日期沿用原表|
 |UBS|此前已投毕业生项目|已投，测试完成，等待结果；原UBC更正为UBS|提交日期沿用原表|
 |HKEX|此前已投岗位，具体名称见原表|已投，暂无后续报告|提交日期沿用原表|
-|Cathay|此前已投岗位，具体名称见原表|已投，暂无后续报告|提交日期沿用原表|
+|Cathay|2027 Digital & IT Graduate Trainee Programme (HK & GBA)|已投（用户2026-10-26确认），暂无后续报告；该岗截止2026-11-15|提交日期沿用原表|
 |Tiger Trade|AI FG 2027|已投，暂无后续报告|提交日期沿用原表|
 |OOCL|IT Graduate Trainee|已投，等待结果|2026-10-21对话确认|
 |Eclipse Trading|Graduate Python Software Developer, 2027 Intake|已投，等待结果|2026-10-21对话确认|
@@ -63,3 +63,11 @@
 - Watsons Water旧IT Graduate Trainee、Cathay Catering旧Programmer、BNP香港IT & Operations 2027：此前核查已关闭/已招满。
 - SG Data Scientist旧链接返回410；Fano检索到的入门软件岗在新加坡。
 - HKTV AI vibe coding HKTV732及SmarTone AI Engineer/Data Scientist有工作年限要求，不与明确接受FG的职位混淆。
+
+## 2026-10-26 补充
+
+- 机管局 AAHK IT Trainee Programme 2027：网上申请2026-10-26至2026-11-29，需CV+成绩单；代填至Review页，待用户确认提交。
+- 港灯 Graduate Trainee 2027 (IT)：官方只收电邮 recruit@hkelectric.com，截止2026-12-18；LinkedIn亦有刊登（GT-2027-LI）。求职信已备。
+- 招商永隆 IT Graduate Trainee：官方只收电邮 hrp@cmbwinglungbank.com，滚动招聘。求职信已备。
+- Accenture AI-Native Analyst（11-02截止）、Deloitte三个Analyst岗：门户注册卡住（Accenture注册无响应、Deloitte图片验证码），需用户自行注册。
+- 用户决定跳过 Jane Street、Goldman Sachs、Squarepoint 等顶尖量化/投行长线岗位。
