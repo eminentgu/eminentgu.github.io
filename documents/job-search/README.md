@@ -4,7 +4,7 @@
 
 ## 当前申请进度
 
-共11家已确认提交（下表）；另有10月23–24日提交的Metabit、Moomoo AI Agent Engineer、HKTV149、QRT、Arup HON0003VN、MTR 260000UY等，累计18份，详见submissions/。未回复不等于拒绝；下列状态按用户报告整理，没有访问邮箱确认新结果。
+共12家已确认提交（下表）；另有10月23–24日提交的Metabit、Moomoo AI Agent Engineer、HKTV149、QRT、Arup HON0003VN、MTR 260000UY等，累计19份，详见submissions/。未回复不等于拒绝；下列状态按用户报告整理，没有访问邮箱确认新结果。
 
 |公司|岗位/方向|最新已知进度|日期说明|
 |---|---|---|---|
@@ -19,6 +19,7 @@
 |Hactl|IT Graduate Trainee|已投，结果待更新|2026-10-23报告已投；实际提交日未另核|
 |港灯 HK Electric|Graduate Trainee 2027 (IT, GT-2027-COW)|已投（电邮），等待结果；官方截止2026-12-18|2026-10-26用户确认已投|
 |招商永隆银行|IT Graduate Trainee（Application Development）|已投（电邮），等待结果；6周未获邀约视为不成功|2026-10-26用户确认已投|
+|机管局 AAHK|IT Trainee 2027（Job 260432）|已网申提交（Taleo，状态Completed，无参考编号）|2026-10-26 17:27 HKT；确认见submissions/aahk-2026-10-26|
 
 ## 目前执行规则
 
