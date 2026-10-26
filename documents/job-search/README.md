@@ -4,19 +4,21 @@
 
 ## 当前申请进度
 
-共9家已确认提交（下表）；另有10月23–24日提交的Metabit、Moomoo AI Agent Engineer、HKTV149、QRT、Arup HON0003VN、MTR 260000UY等，累计16份，详见submissions/。未回复不等于拒绝；下列状态按用户报告整理，没有访问邮箱确认新结果。
+共11家已确认提交（下表）；另有10月23–24日提交的Metabit、Moomoo AI Agent Engineer、HKTV149、QRT、Arup HON0003VN、MTR 260000UY等，累计18份，详见submissions/。未回复不等于拒绝；下列状态按用户报告整理，没有访问邮箱确认新结果。
 
 |公司|岗位/方向|最新已知进度|日期说明|
 |---|---|---|---|
 |ASTRI|此前已投岗位，具体名称见原表|已投，暂无后续报告|提交日期沿用原表，不补造|
 |HSBC|此前已投毕业生项目|已投，测试完成，等待结果|提交日期沿用原表|
-|UBS|此前已投毕业生项目|已投，测试完成，等待结果；原UBC更正为UBS|提交日期沿用原表|
+|UBS|此前已投毕业生项目|已投，测试完成，现进入视频面试（AI/录播）阶段（用户2026-10-26报告）|提交日期沿用原表|
 |HKEX|此前已投岗位，具体名称见原表|已投，暂无后续报告|提交日期沿用原表|
 |Cathay|2027 Digital & IT Graduate Trainee Programme (HK & GBA)|已投（用户2026-10-26确认），暂无后续报告；该岗截止2026-11-15|提交日期沿用原表|
 |Tiger Trade|AI FG 2027|已投，暂无后续报告|提交日期沿用原表|
 |OOCL|IT Graduate Trainee|已投，等待结果|2026-10-21对话确认|
 |Eclipse Trading|Graduate Python Software Developer, 2027 Intake|已投，等待结果|2026-10-21对话确认|
 |Hactl|IT Graduate Trainee|已投，结果待更新|2026-10-23报告已投；实际提交日未另核|
+|港灯 HK Electric|Graduate Trainee 2027 (IT, GT-2027-COW)|已投（电邮），等待结果；官方截止2026-12-18|2026-10-26用户确认已投|
+|招商永隆银行|IT Graduate Trainee（Application Development）|已投（电邮），等待结果；6周未获邀约视为不成功|2026-10-26用户确认已投|
 
 ## 目前执行规则
 
@@ -67,7 +69,7 @@
 ## 2026-10-26 补充
 
 - 机管局 AAHK IT Trainee Programme 2027：网上申请2026-10-26至2026-11-29，需CV+成绩单；代填至Review页，待用户确认提交。
-- 港灯 Graduate Trainee 2027 (IT)：官方只收电邮 recruit@hkelectric.com，截止2026-12-18；LinkedIn亦有刊登（GT-2027-LI）。求职信已备。
-- 招商永隆 IT Graduate Trainee：官方只收电邮 hrp@cmbwinglungbank.com，滚动招聘。求职信已备。
+- 港灯 GT 2027 (IT)、招商永隆 IT GT：已电邮投递（用户2026-10-26确认）。
+- UBS：进入视频面试阶段。
 - Accenture AI-Native Analyst（11-02截止）、Deloitte三个Analyst岗：门户注册卡住（Accenture注册无响应、Deloitte图片验证码），需用户自行注册。
 - 用户决定跳过 Jane Street、Goldman Sachs、Squarepoint 等顶尖量化/投行长线岗位。
