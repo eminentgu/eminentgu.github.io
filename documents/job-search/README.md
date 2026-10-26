@@ -69,7 +69,7 @@
 
 ## 2026-10-26 补充
 
-- 机管局 AAHK IT Trainee Programme 2027：网上申请2026-10-26至2026-11-29，需CV+成绩单；代填至Review页，待用户确认提交。
+- 机管局 AAHK IT Trainee Programme 2027：网上申请2026-10-26至2026-11-29，需CV+成绩单；已于2026-10-26提交（Job 260432）。
 - 港灯 GT 2027 (IT)、招商永隆 IT GT：已电邮投递（用户2026-10-26确认）。
 - UBS：进入视频面试阶段。
 - Accenture AI-Native Analyst（11-02截止）、Deloitte三个Analyst岗：门户注册卡住（Accenture注册无响应、Deloitte图片验证码），需用户自行注册。
