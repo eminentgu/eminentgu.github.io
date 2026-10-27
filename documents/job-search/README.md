@@ -93,4 +93,5 @@ CTG 草稿 PDF：preview-2026-10-26/ChinaTelecomIntl_CTG_FreshTalent_Draft.pdf�
 
 - 2026-10-27 查 SAP 新舊招聘站：香港只有 Senior Account Executive（銷售、資深），沒有 Graduate／Fresh Graduate IT／AI／Data 職位，暫不可投。
 - 亞太畢業生類崗位目前在上海／大連（STAR 2028屆）及新加坡（實習），不符合香港限制。
+- Joule（2026-10-27 再查）：香港辦公室有 Joule／AI Agent 客戶工作坊（銷售及售前），但 Joule 研發崗在新加坡 SAP Labs（Senior ML Engineer, Joule Platform Services，資深）及慕尼黑（Forward Deployed Junior AI Engineer，已招滿），香港沒有 Joule 相關職位。
 - 入口：[SAP 舊站香港搜尋](https://careers.sap.com/search/?q=&locationsearch=Hong+Kong)、[SAP Students and Graduates](https://jobs.sap.com/en/students-and-graduates/)。出現香港 FG 科技崗再投。
