@@ -100,3 +100,14 @@ CTG 草稿 PDF：preview-2026-10-26/ChinaTelecomIntl_CTG_FreshTalent_Draft.pdf�
 
 - 官網 avenirx.com 無招聘頁，職位只在 LinkedIn。香港現有：IR Manager、Senior Treasury BP、Senior Finance Manager、Options Trader／Strategy PM——全是資深非科技崗。
 - 子公司 [DeepTrading](https://www.avenirdeeptrading.com/en/)（北京＋香港）長期招 Junior C++ Quantitative Systems Engineer（0–3年，全職），要求精通 C++；另有 C++ 實習（接受 final-year）。投遞：網頁上載或 AvenirDeepTradingHR@avenirx.com。技能需 C++ 扎實，暫列條件匹配再投。
+
+## AI 龍頭 2027 校招（香港工作地）候選（2026-10-27 整理，未投）
+
+|公司|方向|注意|入口|
+|---|---|---|---|
+|阿里巴巴（集團／阿里雲／千問等16家）|AI Agent、多模態、大模型後訓練、AI Infra|畢業 2026.11–2027.10；每個業務集團1份申請、最多2志願；須在官網篩選香港崗|[campus-talent.alibaba.com](https://campus-talent.alibaba.com/campus/position/199907700028)|
+|騰訊 2027 校招|AI 全棧、Agent 開發、AI 算法|城市含香港；CDG 青雲計劃 2026-09-28 已截，普通校招仍開|[careers.tencent.com](https://careers.tencent.com/zh-cn/campusrecruit.html)|
+|螞蟻集團 2027|AI 研究／應用／Infra／安全|80% 技術崗、八成 AI；城市含香港；筆試 AI Coding|官網待核|
+|美團／Keeta 2027|AI 全棧工程師、算法|城市含香港|官網待核|
+|華為香港研究所 HKRC|AI Researcher、Research Engineer、AI Security|校招連結見 LinkedIn 帖|[LinkedIn](https://www.linkedin.com/posts/huawei-hong-kong-research-center-hkrc_were-hiring-join-our-team-we-are-expanding-activity-7498930541799448576-2YpF)|
+|ASTRI|Multimodal AI Engineer（CTO/AIPS/CLI/2279）|明確 Fresh graduates welcome；ASTRI 此前已投另一崗|[ASTRI](https://careers.astri.org/job/Senior-Engineer-Engineer-Engineering-Associate-(PI),-Multimodal-AI-Engineer/55060144)|
