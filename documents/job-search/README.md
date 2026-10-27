@@ -74,3 +74,17 @@
 - UBS：进入视频面试阶段。
 - Accenture AI-Native Analyst（11-02截止）、Deloitte三个Analyst岗：门户注册卡住（Accenture注册无响应、Deloitte图片验证码），需用户自行注册。
 - 用户决定跳过 Jane Street、Goldman Sachs、Squarepoint 等顶尖量化/投行长线岗位。
+
+## 需自行申請（Hark 無法代投，2026-10-27 整理）
+
+|#|公司|職位|卡住原因|目前進度|截止（HKT）|
+|---|---|---|---|---|---|
+|1|中國電信國際 CTG|[優培生計劃（香港）](https://job.chinatelecom.com.cn/wt/TELE/web/index)|須補個人資料、家庭及身份證／照片／學籍報告／IELTS 附件|草稿已存未投遞；短信登入 +86 18051789135|約2026-11-01 00:00（第三方）|
+|2|Accenture|[2027 AI-Native Analyst](https://careersite.tupu360.com/accentureats/position/index?recruitmentType=CAMPUSRECRUITMENT&currentLang=en)|註冊按鈕無反應|未開始，只能投一崗|2026-11-02 15:59|
+|3|Deloitte|[Analyst - Data Analytics (A&A)](https://wecruit.hotjob.cn/SU64365a780dcad43c5ae82bab/pb/posDetail.html?postId=6a2261bcc7606e0d83aefec0&postType=campus)|圖片驗證碼|未開始|2026-11-04|
+|4|Deloitte|[Enterprise Tech（Agentic AI）](https://wecruit.hotjob.cn/SU64365a780dcad43c5ae82bab/pb/posDetail.html?postId=6a685008e05c792b8ed0d846&postType=campus)|圖片驗證碼|未開始|2026-12-31|
+|5|Deloitte|[FSI Fintech/AI Analyst](https://wecruit.hotjob.cn/SU64365a780dcad43c5ae82bab/pb/posDetail.html?postId=6a266600c7606e0d83b4aa2b&postType=campus)|圖片驗證碼|未開始|2026-12-31|
+|6|Tesla|[Data Analyst, Service Ops（287715）](https://hk.jobsdb.com/job/95485605)|Moka 滑塊驗證|未填寫|滾動|
+|7|OCBC 香港|[GTP 2027（Ops & Tech）](https://hk.linkedin.com/jobs/view/graduate-talent-programme-2027-at-ocbc-4480444295)|需 LinkedIn 登入|未開始|2026-12-20|
+
+CTG 草稿 PDF：preview-2026-10-26/ChinaTelecomIntl_CTG_FreshTalent_Draft.pdf。CBI 亦被 Jobsdb 封鎖，但用戶已決定不投。
