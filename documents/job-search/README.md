@@ -111,3 +111,8 @@ CTG 草稿 PDF：preview-2026-10-26/ChinaTelecomIntl_CTG_FreshTalent_Draft.pdf�
 |美團／Keeta 2027|AI 全棧工程師、算法|城市含香港|官網待核|
 |華為香港研究所 HKRC|AI Researcher、Research Engineer、AI Security|校招連結見 LinkedIn 帖|[LinkedIn](https://www.linkedin.com/posts/huawei-hong-kong-research-center-hkrc_were-hiring-join-our-team-we-are-expanding-activity-7498930541799448576-2YpF)|
 |ASTRI|Multimodal AI Engineer（CTO/AIPS/CLI/2279）|明確 Fresh graduates welcome；ASTRI 此前已投另一崗|[ASTRI](https://careers.astri.org/job/Senior-Engineer-Engineer-Engineering-Associate-(PI),-Multimodal-AI-Engineer/55060144)|
+
+## 外資／港資高成長公司 AI FG 查核（2026-10-27）
+- 用戶不投內地大廠，改看外資／港資有潛力、非巨頭公司。
+- 結果：香港明確收 FG 的 AI 全職崗極少。ASTRI Multimodal AI Engineer（CTO/AIPS/CLI/2279）明確歡迎 FG，可投。
+- 不符：Airwallex 香港無職位；Nex（美資，香港研發）ML Researcher 要 2+ 年，香港只有 Summer 2027 實習；Klook R&D 實習轉正只限深圳／新加坡；Toku Applied AI Engineer（新加坡上市，可駐港）未寫 FG、要求生產級 LLM 經驗；Crypto.com／OKX／HashKey 香港 AI 崗均資深。
