@@ -95,3 +95,8 @@ CTG 草稿 PDF：preview-2026-10-26/ChinaTelecomIntl_CTG_FreshTalent_Draft.pdf�
 - 亞太畢業生類崗位目前在上海／大連（STAR 2028屆）及新加坡（實習），不符合香港限制。
 - Joule（2026-10-27 再查）：香港辦公室有 Joule／AI Agent 客戶工作坊（銷售及售前），但 Joule 研發崗在新加坡 SAP Labs（Senior ML Engineer, Joule Platform Services，資深）及慕尼黑（Forward Deployed Junior AI Engineer，已招滿），香港沒有 Joule 相關職位。
 - 入口：[SAP 舊站香港搜尋](https://careers.sap.com/search/?q=&locationsearch=Hong+Kong)、[SAP Students and Graduates](https://jobs.sap.com/en/students-and-graduates/)。出現香港 FG 科技崗再投。
+
+## 觀察雇主：Avenir Group（2026-10-27 加入）
+
+- 官網 avenirx.com 無招聘頁，職位只在 LinkedIn。香港現有：IR Manager、Senior Treasury BP、Senior Finance Manager、Options Trader／Strategy PM——全是資深非科技崗。
+- 子公司 [DeepTrading](https://www.avenirdeeptrading.com/en/)（北京＋香港）長期招 Junior C++ Quantitative Systems Engineer（0–3年，全職），要求精通 C++；另有 C++ 實習（接受 final-year）。投遞：網頁上載或 AvenirDeepTradingHR@avenirx.com。技能需 C++ 扎實，暫列條件匹配再投。
