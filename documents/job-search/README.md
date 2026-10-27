@@ -88,3 +88,9 @@
 |7|OCBC 香港|[GTP 2027（Ops & Tech）](https://hk.linkedin.com/jobs/view/graduate-talent-programme-2027-at-ocbc-4480444295)|需 LinkedIn 登入|未開始|2026-12-20|
 
 CTG 草稿 PDF：preview-2026-10-26/ChinaTelecomIntl_CTG_FreshTalent_Draft.pdf。CBI 亦被 Jobsdb 封鎖，但用戶已決定不投。
+
+## 觀察雇主：SAP 香港（2026-10-27 加入）
+
+- 2026-10-27 查 SAP 新舊招聘站：香港只有 Senior Account Executive（銷售、資深），沒有 Graduate／Fresh Graduate IT／AI／Data 職位，暫不可投。
+- 亞太畢業生類崗位目前在上海／大連（STAR 2028屆）及新加坡（實習），不符合香港限制。
+- 入口：[SAP 舊站香港搜尋](https://careers.sap.com/search/?q=&locationsearch=Hong+Kong)、[SAP Students and Graduates](https://jobs.sap.com/en/students-and-graduates/)。出現香港 FG 科技崗再投。
