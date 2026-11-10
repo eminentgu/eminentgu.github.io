@@ -20,6 +20,7 @@
 |港灯 HK Electric|Graduate Trainee 2027 (IT, GT-2027-COW)|已投（电邮），等待结果；官方截止2026-12-18|2026-10-26用户确认已投|
 |招商永隆银行|IT Graduate Trainee（Application Development）|已投（电邮），等待结果；6周未获邀约视为不成功|2026-10-26用户确认已投|
 |机管局 AAHK|IT Trainee 2027（Job 260432）|已网申提交（Taleo，状态Completed，无参考编号）|2026-10-26 17:27 HKT；确认见submissions/aahk-2026-10-26|
+|华侨银行香港 OCBC|[Graduate Talent Programme 2027](https://www.ocbc.com.hk/group/careers/students/programmes/graduate-talent-programme.page)，第一志愿 Technology (TEC)|招聘方审核中（招聘系统状态已核实）|2026-11-10 核实；下一步待招聘方批准|
 
 ## 目前执行规则
 
@@ -31,11 +32,11 @@
 
 ## 优先投递清单（15 岗，2026-11-10）
 
-按银行科技、Agent 工程、企业软件与金融数据的匹配度排序。标有待核条件的条目先核实再提交。下列岗位均没有新增投递确认。
+按银行科技、Agent 工程、企业软件与金融数据的匹配度排序。标有待核条件的条目先核实再提交。华侨银行已进入招聘方审核，其余条目暂无新增投递确认。
 
 |顺序|公司与岗位|投递说明|截止（香港时间）|
 |---|---|---|---|
-|1|[华侨银行香港 Graduate Talent Programme 2027](https://www.ocbc.com.hk/group/careers/students/programmes/graduate-talent-programme.page) — Operations & Technology|银行内部技术，明确欢迎 IANG。|2026-12-20|
+|1|[华侨银行香港 Graduate Talent Programme 2027](https://www.ocbc.com.hk/group/careers/students/programmes/graduate-talent-programme.page) — Operations & Technology|招聘方审核中。第一志愿为 Technology (TEC)，下一步待招聘方批准。|2026-12-20|
 |2|[星展香港 Management Associate Programme（WD89935）](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/One-Island-East/Management-Associate-Programme--MAP----2027-intake--Hong-Kong_WD89935) — Technology & Operations|正式长期岗位，选技术方向，2027 年 7 月入职。|2027-01-31，滚动审理|
 |3|[中信建投国际 FinTech–IT Application Assistant](https://cscihk.zhiye.com/campus/jobs)|香港证券公司内部应用研发。官网校招列表有此岗位，进入站内按岗位全名搜索。|未核实|
 |4|[西门子交通 AI Engineer – Digital Development Centre（527401）](https://hk.linkedin.com/jobs/view/ai-engineer-digital-development-centre-at-siemens-4484552051)|香港全职，做 RAG、工作流编排、追踪及评测。欢迎有项目经历的应届生，粤语是加分项。|雇主刊登未公布|
