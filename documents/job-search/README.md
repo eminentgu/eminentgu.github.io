@@ -24,21 +24,31 @@
 ## 目前执行规则
 
 - 每天至少2份正式申请；只推荐JD明确Graduate / Fresh Graduate / Final-year且资格匹配的岗位。
-- 优先Hactl类似的成熟企业内部IT、应用开发和业务技术团队；稳定性及低竞争不作保证。
+- 当前优先香港银行的内部 IT、数据与应用开发。暂缓研究助理（RA），生物医学 AI 继续跟踪企业全职工程岗位。
 - 到岗时间用于排序。毕业时间、可到岗时间、工作权按申请人确认的信息填写。明确要求较高粤语能力的岗位后排。
 - 用户明确不投BOCHK、Mastercard、BlackRock；不投Management Trainee；优先稳定、大型雇主。HSBC已投，集团（含恒生）每年只收一份申请。Marshall Wace移出主投；Intact及未明确FG的HKCLR岗位不进入主投。
 - 香港办公室、香港上市与香港具体招聘岗位不是同一回事。待研究企业不等于已确认香港FG空缺。
 
-## 优先待投（2026-11-10）
+## 银行优先待投（2026-11-10）
 
 |顺序|公司与岗位|状态与匹配|截止（香港时间）|
 |---|---|---|---|
 |1|[华侨银行香港 Graduate Talent Programme 2027](https://www.ocbc.com.hk/group/careers/students/programmes/graduate-talent-programme.page) — Operations & Technology|已确认优先投递，尚未提交。24个月毕业生项目，欢迎 IANG 持有人。|2026-12-20|
-|2|[港大医学院 Research Assistant I/II（537341）](https://jobs.hku.hk/cw/en/job/537341/research-assistant-iii)|待投。生物医学 LLM 部署，接受相关本科背景。全职一年，招聘方希望尽快到岗。|2026-12-10 或招满|
-|3|[港大 MRI 实验室 Research Assistant II（537357）](https://jobs.hku.hk/cw/en/job/537357/research-assistant-ii-artificial-intelligence)|待投。MRI 影像 AI 和数据流程，明确无需工作经验。全职一年，招聘方希望尽快到岗。|2026-11-30 或招满|
-|备选|[中科院香港中心 超声基础大模型研究助理](https://www.cair-cas.org.hk/article/689)|待投。临床超声智能体与多模态模型，接受优秀本科毕业生。[雇主刊登薪资](https://hk.jobsdb.com/zh/job/95707831)为 HK$18,000–23,000/月，低于当前期望。|未公布|
+|2|[星展香港 Management Associate Programme 2027（WD89935）](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/One-Island-East/Management-Associate-Programme--MAP----2027-intake--Hong-Kong_WD89935) — Technology & Operations|待投。可选明确技术方向；香港岗位接受不足两年工作经验的毕业生。官网说明为正式长期职位，2027 年 7 月入职。|2027-01-31，滚动审理|
+
+建行（亚洲）Graduate Trainee Program 列出 Fintech 和 Digital Banking，城大招聘页暂定 2026-12-31 截止。银行官网确认项目类型，但本届技术方向的直接申请入口待核。 [银行官网](https://www.asia.ccb.com/hongkong/aboutus/career_opportunities/graduate_opportunities/index.html) · [城大招聘公告](https://www.cb.cityu.edu.hk/careerdevelopment/careerfair/jobListing/index.cfm?c=ED91EA2C23C9AC4C565124DDBCAE959F8E546A7DC8A99B1C2027E2EFFC974729AF48C152CEA7F03E228FA339997E5042D1CBFB905670F6D02AC3290A66978097)
 
 恒生零售银行管培包含数据与 AI 轮岗。由于已有汇丰毕业生项目申请，恒生与汇丰每周期合计一份毕业生申请的规则仍适用，暂缓投递。 [官方招聘公告](https://apply.careers.hsbc.com/emergingtalent/job/Central-Hang-Seng-Management-Trainee-%28MT%29-Programme-Retail-Banking-and-Wealth-Hong/1371337257/)
+
+## 生物医学 AI 企业（2026-11-10 复核）
+
+|公司|香港应届全职 AI 招聘核查|入口|
+|---|---|---|
+|百图生科 BioMap|官网确认香港科学园办公室；暂未核实开放的香港应届 ML 或 AI 工程岗位。|[公司及招聘联系](https://www.biomap.com/company)|
+|英矽智能 Insilico Medicine|官网当前的分子机器学习岗位为阿布扎比资深岗；香港岗位继续跟踪。|[招聘官网](https://insilico.com/careers)|
+|晶泰科技 XtalPi|有校招入口，暂未核实工作地点明确在香港的应届 AI 或自动化工程岗。|[校招官网](https://www.xtalpi.com/career/)|
+
+暂缓投递的 RA：港大医学院 537341、港大 MRI 537357、中科院香港中心超声基础大模型。三项均未提交。
 
 ## 10 月历史候选
 
