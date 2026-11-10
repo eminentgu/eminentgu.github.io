@@ -36,7 +36,7 @@
 |1|[华侨银行香港 Graduate Talent Programme 2027](https://www.ocbc.com.hk/group/careers/students/programmes/graduate-talent-programme.page) — Operations & Technology|已确认优先投递，尚未提交。24个月毕业生项目，欢迎 IANG 持有人。|2026-12-20|
 |2|[港大医学院 Research Assistant I/II（537341）](https://jobs.hku.hk/cw/en/job/537341/research-assistant-iii)|待投。生物医学 LLM 部署，接受相关本科背景。全职一年，招聘方希望尽快到岗。|2026-12-10 或招满|
 |3|[港大 MRI 实验室 Research Assistant II（537357）](https://jobs.hku.hk/cw/en/job/537357/research-assistant-ii-artificial-intelligence)|待投。MRI 影像 AI 和数据流程，明确无需工作经验。全职一年，招聘方希望尽快到岗。|2026-11-30 或招满|
-|备选|[中科院香港中心 超声基础大模型研究助理](https://cair-cas.org.hk/article/689)|待投。临床超声智能体与多模态模型，接受优秀本科毕业生。[雇主刊登薪资](https://hk.jobsdb.com/zh/job/95707831)为 HK$18,000–23,000/月，低于当前期望。|未公布|
+|备选|[中科院香港中心 超声基础大模型研究助理](https://www.cair-cas.org.hk/article/689)|待投。临床超声智能体与多模态模型，接受优秀本科毕业生。[雇主刊登薪资](https://hk.jobsdb.com/zh/job/95707831)为 HK$18,000–23,000/月，低于当前期望。|未公布|
 
 恒生零售银行管培包含数据与 AI 轮岗。由于已有汇丰毕业生项目申请，恒生与汇丰每周期合计一份毕业生申请的规则仍适用，暂缓投递。 [官方招聘公告](https://apply.careers.hsbc.com/emergingtalent/job/Central-Hang-Seng-Management-Trainee-%28MT%29-Programme-Retail-Banking-and-Wealth-Hong/1371337257/)
 
