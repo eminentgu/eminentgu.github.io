@@ -29,16 +29,41 @@
 - 用户明确不投BOCHK、Mastercard、BlackRock；不投Management Trainee；优先稳定、大型雇主。HSBC已投，集团（含恒生）每年只收一份申请。Marshall Wace移出主投；Intact及未明确FG的HKCLR岗位不进入主投。
 - 香港办公室、香港上市与香港具体招聘岗位不是同一回事。待研究企业不等于已确认香港FG空缺。
 
-## 银行优先待投（2026-11-10）
+## 优先投递清单（15 岗，2026-11-10）
 
-|顺序|公司与岗位|状态与匹配|截止（香港时间）|
+按银行科技、Agent 工程、企业软件与金融数据的匹配度排序。标有待核条件的条目先核实再提交。下列岗位均没有新增投递确认。
+
+|顺序|公司与岗位|投递说明|截止（香港时间）|
 |---|---|---|---|
-|1|[华侨银行香港 Graduate Talent Programme 2027](https://www.ocbc.com.hk/group/careers/students/programmes/graduate-talent-programme.page) — Operations & Technology|已确认优先投递，尚未提交。24个月毕业生项目，欢迎 IANG 持有人。|2026-12-20|
-|2|[星展香港 Management Associate Programme 2027（WD89935）](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/One-Island-East/Management-Associate-Programme--MAP----2027-intake--Hong-Kong_WD89935) — Technology & Operations|待投。可选明确技术方向；香港岗位接受不足两年工作经验的毕业生。官网说明为正式长期职位，2027 年 7 月入职。|2027-01-31，滚动审理|
+|1|[华侨银行香港 Graduate Talent Programme 2027](https://www.ocbc.com.hk/group/careers/students/programmes/graduate-talent-programme.page) — Operations & Technology|银行内部技术，明确欢迎 IANG。|2026-12-20|
+|2|[星展香港 Management Associate Programme（WD89935）](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/One-Island-East/Management-Associate-Programme--MAP----2027-intake--Hong-Kong_WD89935) — Technology & Operations|正式长期岗位，选技术方向，2027 年 7 月入职。|2027-01-31，滚动审理|
+|3|[中信建投国际 FinTech–IT Application Assistant](https://cscihk.zhiye.com/campus/jobs)|香港证券公司内部应用研发。官网校招列表有此岗位，进入站内按岗位全名搜索。|未核实|
+|4|[西门子交通 AI Engineer – Digital Development Centre（527401）](https://hk.linkedin.com/jobs/view/ai-engineer-digital-development-centre-at-siemens-4484552051)|香港全职，做 RAG、工作流编排、追踪及评测。欢迎有项目经历的应届生，粤语是加分项。|雇主刊登未公布|
+|5|[环球数科 AI 应用与智能体工程师](https://www.shukeyun.com/hk/careers?role=ai-agent)|2026／2027 届，做工具调用、任务编排、权限和审计。港深双地招聘，需确认可常驻香港。|未公布|
+|6|[明汯投资 AI 算法研究员（2027 校招）](https://join.mhfunds.com/index)|香港或上海全职。金融数据建模、深度学习，投递选香港。|未公布|
+|7|[富途／moomoo AI Algorithm Engineer（2027 FG）](https://jobs.workable.com/view/wn2uJrd7atPTSbkXReyT3n/2027-fresh-grad-hire---ai-algorithm-engineer-in-hong-kong-at-moomoo)|香港全职，做投资 Agent、RAG 和模型评测。已投同公司 AI Agent Engineer，本岗先核对多投规则。|雇主刊登未公布|
+|8|[PCCW-HKT Graduate Development Programme — IT Associate（63336）](https://job.pccw.com/hkt/job/Hong-Kong-PCCW-HKT-Graduate-Development-Programme-2027-HK/1368912866/)|香港全职毕业生项目，优先选 IT Associate。官网列 11 月面试，建议尽早。|官网未公布|
+|9|[香港生产力促进局 Technical Officer — AI Agents & Data Analytics（SCD/11109）](https://careers.hkpc.org/job/Technical-Officer%2C-AI-Agents-%26-Data-Analytics-for-AI-City-Brain/1368793866/)|欢迎应届，24 个月合约，做 Agent 与分析。要求研究生学位，申请前确认可接受预计毕业。|官网称招满为止|
+|10|[道富 State Street Markets Professional Development Program（R-799888）](https://statestreet.wd1.myworkdayjobs.com/en-US/eQuest/job/Hong-Kong-China/State-Street-Markets-Entry-Level-Rotational---Professional-Development-Program--Senior-Associate_R-799888)|香港入门轮岗，涉及市场、交易及平台业务，偏金融。|2026-11-21|
+|11|[德勤 FSI FinTech / AI / GenAI Analyst](https://wecruit.hotjob.cn/SU64365a780dcad43c5ae82bab/pb/posDetail.html?postId=6a266600c7606e0d83b4aa2b&postType=campus)|金融科技咨询校招。此前注册遇验证码，岗位由城大招聘公告交叉核实。|2026-12-31（城大招聘公告）|
+|12|[香港教育城 Assistant Software Engineer](https://hk.linkedin.com/jobs/view/assistant-software-engineer-at-hong-kong-education-city-4487934049)|接受应届，做 Web／移动应用及 AI 工具评估。要求中英文口语和书写，未单列粤语。|招满为止|
+|13|[HGC／Macroview Solution Engineer — AI Automation](https://hk.hire.moi/companies/hgc-global-communications/solution-engineer-ai-automation-fresh-graduates-welcome--fc32a442ed)|接受有相关项目的应届生。做 Agent 原型及自动化，工作偏售前；聚合页可查，原 JobsDB 入口待核。|未公布|
+|14|[FDM Data Engineering Graduate Programme](https://openuniversity.recruit.com.hk/jobseeker/JobDetail.aspx?jobOrder=L0608732150)|香港全职，Python、SQL、ETL。1 月批次，培训后做客户项目。|未公布|
+|15|[DV Trading 2027 Quantitative Researcher Graduate（DV QES）](https://job-boards.greenhouse.io/dvtrading/jobs/4736954005)|香港全职，Python、机器学习、回测。偏量化信号研究，有回测或信号项目时优先。|未公布|
 
 建行（亚洲）Graduate Trainee Program 列出 Fintech 和 Digital Banking，城大招聘页暂定 2026-12-31 截止。银行官网确认项目类型，但本届技术方向的直接申请入口待核。 [银行官网](https://www.asia.ccb.com/hongkong/aboutus/career_opportunities/graduate_opportunities/index.html) · [城大招聘公告](https://www.cb.cityu.edu.hk/careerdevelopment/careerfair/jobListing/index.cfm?c=ED91EA2C23C9AC4C565124DDBCAE959F8E546A7DC8A99B1C2027E2EFFC974729AF48C152CEA7F03E228FA339997E5042D1CBFB905670F6D02AC3290A66978097)
 
 恒生零售银行管培包含数据与 AI 轮岗。由于已有汇丰毕业生项目申请，恒生与汇丰每周期合计一份毕业生申请的规则仍适用，暂缓投递。 [官方招聘公告](https://apply.careers.hsbc.com/emergingtalent/job/Central-Hang-Seng-Management-Trainee-%28MT%29-Programme-Retail-Banking-and-Wealth-Hong/1371337257/)
+
+## 量化、家办与投研 Agent 跟踪
+
+- [九坤投资](https://job.hust.edu.cn/extxjh/581791873703758.do)：香港持牌实体 Ubiquant Asset Management Co., Limited（[证监会 BRM204](https://www.sfc.hk/-/media/TC/files/LIC/pr/1_addition_chi_20211130.pdf)）。本届公开秋招城市为北京、上海、深圳。
+- [Alpha FinTech／ZenFinAI](https://zenfinai.com/)：投研 Agent 全栈岗位曾明确考虑有完整项目的应届生，当前原投递入口待核。 [职位记录](https://www.jobleads.com/hk/job/full-stack-engineer-ai-agents-investment-research--sha-tin--ea4d9e2710f325f9d7c8b10fe02dee980)
+- [Avenir DeepTrading](https://avenirdeeptrading.com/zh-TW/)：香港有办公室，已组建内部 Agent 工程团队。公开岗位以 C++ 交易系统及测试开发为主。
+- [天演资本](https://www.tianyancapital.com/zh/join-us/jobs/index.html)和[幻方香港](https://www.cr.gov.hk/docs/wrpt/RNC063_2019.03.18-2019.03.24.pdf)：已确认香港办公室或实体，本轮未核实香港应届 Agent 岗。
+- [Applied Agentic](https://www.applied-agentic.ai/careers.html)：香港资本市场多智能体团队，当前公布的是实习。
+- [家办 Agent 内部系统岗](https://www.offertoday.com/hk/job/J3Zr1Vc47IbzLpPnbamw-w%3D%3D)：要求 5–10 年经验，留作了解家办需求。
+- [ASTRI Multimodal AI Engineer（2279）](https://careers.astri.org/job/Senior-Engineer-Engineer-Engineering-Associate-%28PI%29%2C-Multimodal-AI-Engineer/55060144)：官网显示已招满。
 
 ## 生物医学 AI 企业（2026-11-10 复核）
 
@@ -125,9 +150,9 @@ CTG 草稿 PDF：preview-2026-10-26/ChinaTelecomIntl_CTG_FreshTalent_Draft.pdf�
 |螞蟻集團 2027|AI 研究／應用／Infra／安全|80% 技術崗、八成 AI；城市含香港；筆試 AI Coding|官網待核|
 |美團／Keeta 2027|AI 全棧工程師、算法|城市含香港|官網待核|
 |華為香港研究所 HKRC|AI Researcher、Research Engineer、AI Security|校招連結見 LinkedIn 帖|[LinkedIn](https://www.linkedin.com/posts/huawei-hong-kong-research-center-hkrc_were-hiring-join-our-team-we-are-expanding-activity-7498930541799448576-2YpF)|
-|ASTRI|Multimodal AI Engineer（CTO/AIPS/CLI/2279）|明確 Fresh graduates welcome；ASTRI 此前已投另一崗|[ASTRI](https://careers.astri.org/job/Senior-Engineer-Engineer-Engineering-Associate-(PI),-Multimodal-AI-Engineer/55060144)|
+|ASTRI|Multimodal AI Engineer（CTO/AIPS/CLI/2279）|歷史候選；2026-11-10 官網確認已招滿；ASTRI 此前已投另一崗|[ASTRI](https://careers.astri.org/job/Senior-Engineer-Engineer-Engineering-Associate-(PI),-Multimodal-AI-Engineer/55060144)|
 
 ## 外資／港資高成長公司 AI FG 查核（2026-10-27）
 - 用戶不投內地大廠，改看外資／港資有潛力、非巨頭公司。
-- 結果：香港明確收 FG 的 AI 全職崗極少。ASTRI Multimodal AI Engineer（CTO/AIPS/CLI/2279）明確歡迎 FG，可投。
+- 結果：香港明確收 FG 的 AI 全職崗極少。ASTRI Multimodal AI Engineer（CTO/AIPS/CLI/2279）歷史上明確歡迎 FG，2026-11-10 已確認招滿。
 - 不符：Airwallex 香港無職位；Nex（美資，香港研發）ML Researcher 要 2+ 年，香港只有 Summer 2027 實習；Klook R&D 實習轉正只限深圳／新加坡；Toku Applied AI Engineer（新加坡上市，可駐港）未寫 FG、要求生產級 LLM 經驗；Crypto.com／OKX／HashKey 香港 AI 崗均資深。
