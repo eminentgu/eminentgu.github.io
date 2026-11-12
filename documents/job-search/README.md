@@ -1,6 +1,6 @@
 # 香港求职：全部名单与当前进度
 
-更新日期：2026-11-10。此页汇总最新已知申请状态及优先待投岗位。历史文件保留当时的记录，状态以本页及用户后续确认为准。
+最新同步：中信建投国际已投递（用户确认），环球数科已投递（本轮网页确认收件）。此页汇总最新已知申请状态及优先待投岗位。历史文件保留当时的记录，状态以本页及用户后续确认为准。
 
 ## 当前申请进度
 
@@ -21,6 +21,8 @@
 |招商永隆银行|IT Graduate Trainee（Application Development）|已投（电邮），等待结果；6周未获邀约视为不成功|2026-10-26用户确认已投|
 |机管局 AAHK|IT Trainee 2027（Job 260432）|已网申提交（Taleo，状态Completed，无参考编号）|2026-10-26 17:27 HKT；确认见submissions/aahk-2026-10-26|
 |华侨银行香港 OCBC|[Graduate Talent Programme 2027](https://www.ocbc.com.hk/group/careers/students/programmes/graduate-talent-programme.page)，第一志愿 Technology (TEC)|招聘方审核中（招聘系统状态已核实）|2026-11-10 核实；下一步待招聘方批准|
+|中信建投国际|2027 Graduate Program — FinTech–IT Application Assistant|已投递（用户确认）|2026-11-11用户确认；未独立核验回执|
+|环球数科|AI应用与智能体工程师（2026／2027届）|已投递，页面显示“投递已收到”；网站称确认邮件将发送，5个工作日内告知进展|本轮Chrome网页核实；未单独核验确认邮件|
 
 ## 目前执行规则
 
@@ -30,27 +32,29 @@
 - 用户明确不投BOCHK、Mastercard、BlackRock；不投Management Trainee；优先稳定、大型雇主。HSBC已投，集团（含恒生）每年只收一份申请。Marshall Wace移出主投；Intact及未明确FG的HKCLR岗位不进入主投。
 - 香港办公室、香港上市与香港具体招聘岗位不是同一回事。待研究企业不等于已确认香港FG空缺。
 
-## 优先投递清单（15 岗，2026-11-10）
+## 十五项申请清单与当前进度
 
-按银行科技、Agent 工程、企业软件与金融数据的匹配度排序。标有待核条件的条目先核实再提交。华侨银行已进入招聘方审核，其余条目暂无新增投递确认。
+保留原编号以对应历史记录。华侨银行、中信建投和环球数科已进入审核或已投递，不重复投。德勤原岗位已关闭；其余资格及截止日期在提交前复核，旧截止记录不代表今日重新验证。
 
-|顺序|公司与岗位|投递说明|截止（香港时间）|
-|---|---|---|---|
-|1|[华侨银行香港 Graduate Talent Programme 2027](https://www.ocbc.com.hk/group/careers/students/programmes/graduate-talent-programme.page) — Operations & Technology|招聘方审核中。第一志愿为 Technology (TEC)，下一步待招聘方批准。|2026-12-20|
-|2|[星展香港 Management Associate Programme（WD89935）](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/One-Island-East/Management-Associate-Programme--MAP----2027-intake--Hong-Kong_WD89935) — Technology & Operations|正式长期岗位，选技术方向，2027 年 7 月入职。|2027-01-31，滚动审理|
-|3|[中信建投国际 FinTech–IT Application Assistant](https://cscihk.zhiye.com/campus/jobs)|香港证券公司内部应用研发。官网校招列表有此岗位，进入站内按岗位全名搜索。|未核实|
-|4|[西门子交通 AI Engineer – Digital Development Centre（527401）](https://hk.linkedin.com/jobs/view/ai-engineer-digital-development-centre-at-siemens-4484552051)|香港全职，做 RAG、工作流编排、追踪及评测。欢迎有项目经历的应届生，粤语是加分项。|雇主刊登未公布|
-|5|[环球数科 AI 应用与智能体工程师](https://www.shukeyun.com/hk/careers?role=ai-agent)|2026／2027 届，做工具调用、任务编排、权限和审计。港深双地招聘，需确认可常驻香港。|未公布|
-|6|[明汯投资 AI 算法研究员（2027 校招）](https://join.mhfunds.com/index)|香港或上海全职。金融数据建模、深度学习，投递选香港。|未公布|
-|7|[富途／moomoo AI Algorithm Engineer（2027 FG）](https://jobs.workable.com/view/wn2uJrd7atPTSbkXReyT3n/2027-fresh-grad-hire---ai-algorithm-engineer-in-hong-kong-at-moomoo)|香港全职，做投资 Agent、RAG 和模型评测。已投同公司 AI Agent Engineer，本岗先核对多投规则。|雇主刊登未公布|
-|8|[PCCW-HKT Graduate Development Programme — IT Associate（63336）](https://job.pccw.com/hkt/job/Hong-Kong-PCCW-HKT-Graduate-Development-Programme-2027-HK/1368912866/)|香港全职毕业生项目，优先选 IT Associate。官网列 11 月面试，建议尽早。|官网未公布|
-|9|[香港生产力促进局 Technical Officer — AI Agents & Data Analytics（SCD/11109）](https://careers.hkpc.org/job/Technical-Officer%2C-AI-Agents-%26-Data-Analytics-for-AI-City-Brain/1368793866/)|欢迎应届，24 个月合约，做 Agent 与分析。要求研究生学位，申请前确认可接受预计毕业。|官网称招满为止|
-|10|[道富 State Street Markets Professional Development Program（R-799888）](https://statestreet.wd1.myworkdayjobs.com/en-US/eQuest/job/Hong-Kong-China/State-Street-Markets-Entry-Level-Rotational---Professional-Development-Program--Senior-Associate_R-799888)|香港入门轮岗，涉及市场、交易及平台业务，偏金融。|2026-11-21|
-|11|[德勤 FSI FinTech / AI / GenAI Analyst](https://wecruit.hotjob.cn/SU64365a780dcad43c5ae82bab/pb/posDetail.html?postId=6a266600c7606e0d83b4aa2b&postType=campus)|金融科技咨询校招。此前注册遇验证码，岗位由城大招聘公告交叉核实。|2026-12-31（城大招聘公告）|
-|12|[香港教育城 Assistant Software Engineer](https://hk.linkedin.com/jobs/view/assistant-software-engineer-at-hong-kong-education-city-4487934049)|接受应届，做 Web／移动应用及 AI 工具评估。要求中英文口语和书写，未单列粤语。|招满为止|
-|13|[HGC／Macroview Solution Engineer — AI Automation](https://hk.hire.moi/companies/hgc-global-communications/solution-engineer-ai-automation-fresh-graduates-welcome--fc32a442ed)|接受有相关项目的应届生。做 Agent 原型及自动化，工作偏售前；聚合页可查，原 JobsDB 入口待核。|未公布|
-|14|[FDM Data Engineering Graduate Programme](https://openuniversity.recruit.com.hk/jobseeker/JobDetail.aspx?jobOrder=L0608732150)|香港全职，Python、SQL、ETL。1 月批次，培训后做客户项目。|未公布|
-|15|[DV Trading 2027 Quantitative Researcher Graduate（DV QES）](https://job-boards.greenhouse.io/dvtrading/jobs/4736954005)|香港全职，Python、机器学习、回测。偏量化信号研究，有回测或信号项目时优先。|未公布|
+|顺序|岗位与网页|最新进度|下一步|历史截止记录|
+|---|---|---|---|---|
+|1|[华侨银行香港 Graduate Talent Programme 2027](https://www.ocbc.com.hk/group/careers/students/programmes/graduate-talent-programme.page)|英文简历已收件，Technology (TEC) 第一志愿；状态为招聘方审核中|等待招聘方批准下一步。|2026-12-20|
+|2|[星展香港 Management Associate Programme（WD89935）](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/One-Island-East/Management-Associate-Programme--MAP----2027-intake--Hong-Kong_WD89935)|邮箱登录及注册均需密码；邮箱已填，密码未自动填入|下一项优先接续：重新检查Workday登录及申请入口|2027-01-31，滚动审理|
+|3|[中信建投国际 FinTech–IT Application Assistant](https://cscihk.zhiye.com/campus/detail?jobAdId=0c13b876-661a-4f63-869a-dbe331ace219)|已投递（2026-11-11，用户确认）|等待雇主回复；未单独核验网站回执|未公布／未重新核实|
+|4|[西门子交通 AI Engineer – Digital Development Centre（527401）](https://hk.linkedin.com/jobs/view/ai-engineer-digital-development-centre-at-siemens-4484552051)|LinkedIn 入口显示注册或登录，未进入雇主表单|跳过账号阻塞。|雇主刊登未公布|
+|5|[环球数科 AI 应用与智能体工程师](https://www.shukeyun.com/hk/careers?role=ai-agent)|已投递，Chrome网页明确显示“投递已收到”|等待确认邮件及招聘进展；不要重复投递|未公布|
+|6|[明汯投资 AI 算法研究员（2027 校招）](https://join.mhfunds.com/index/position/7684213422175160603/detail)|官网校招投递仍要求手机号及短信验证码|跳过短信验证项目。|未公布|
+|7|[富途／moomoo AI Algorithm Engineer（2027 FG）](https://jobs.workable.com/view/wn2uJrd7atPTSbkXReyT3n/2027-fresh-grad-hire---ai-algorithm-engineer-in-hong-kong-at-moomoo)|简历、联系资料、薪资、毕业资格、项目摘要、作品及求职信已填；担保选No|亲友关系及多投规则待核；页面保留，填写内容已备份本地。|雇主刊登未公布|
+|8|[PCCW-HKT Graduate Development Programme — IT Associate（63336）](https://job.pccw.com/hkt/job/Hong-Kong-PCCW-HKT-Graduate-Development-Programme-2027-HK/1368912866/)|注册非密码资料已填，包括两遍邮箱、姓名、香港电话及居住地|跳过密码设置，保留页面。|官网未公布|
+|9|[香港生产力促进局 Technical Officer — AI Agents & Data Analytics（SCD/11109）](https://careers.hkpc.org/job/Technical-Officer%2C-AI-Agents-%26-Data-Analytics-for-AI-City-Brain/1368793866/)|注册页两遍邮箱、姓名及香港居住地已填，仍需密码|跳过密码设置，保留页面。|官网称招满为止|
+|10|[道富 State Street Markets Professional Development Program（R-799888）](https://statestreet.wd1.myworkdayjobs.com/en-US/eQuest/job/Hong-Kong-China/State-Street-Markets-Entry-Level-Rotational---Professional-Development-Program--Senior-Associate_R-799888)|重载后雇主页正常；邮箱登录页已填邮箱，仍需密码|跳过密码步骤；11月21日截止。|2026-11-21|
+|11|[德勤 FSI FinTech / AI / GenAI Analyst](https://wecruit.hotjob.cn/SU64365a780dcad43c5ae82bab/pb/posDetail.html?postId=6a266600c7606e0d83b4aa2b&postType=campus)|官网再次确认职位招聘已关闭|跳过关闭岗位。|职位已关闭（官网实测）|
+|12|[香港教育城 Assistant Software Engineer](https://www.edcity.hk/home/zh-hant/vacancies/assistant-software-engineer/)|官网要求电邮求职信、简历及相关成绩薪资，没有在线表单|跳过本轮账号填表流程；未发送电邮。|招满为止|
+|13|[HGC／Macroview Solution Engineer — AI Automation](https://hk.hire.moi/companies/hgc-global-communications/solution-engineer-ai-automation-fresh-graduates-welcome--fc32a442ed)|简历及主要资料完整，工作许可和可到岗时间已补；雇主草稿保存成功|使用已发到iCloud邮箱的恢复链接继续，尚未提交。|未公布|
+|14|[FDM Data Engineering Graduate Programme](https://careers.fdmgroup.com/vacancies/2541/data-engineering-graduate-programme.html)|注册非密码资料已补齐，包括香港、港大、2027年3月毕业、硕士及数据与软件方向|密码待本人处理；页面保留并有本地恢复备份。|滚动入职（FDM 官网）|
+|15|[DV Trading 2027 Quantitative Researcher Graduate（DV QES）](https://job-boards.greenhouse.io/dvtrading/jobs/4736954005)|英文简历及主要资料已填；专业为Computer Science，签证担保选No|自营交易实习、数据披露及条款待核；页面保留，字段已备份本地。|未公布|
+
+当前优先接续星展香港MAP科技与运营方向；若账号步骤受阻，再处理富途2027 FG AI算法工程师（先核实同公司多投规则）或HGC已保存草稿。详细个人字段、附件位置和用户回答保存在本地，不放入公开追踪。
 
 建行（亚洲）Graduate Trainee Program 列出 Fintech 和 Digital Banking，城大招聘页暂定 2026-12-31 截止。银行官网确认项目类型，但本届技术方向的直接申请入口待核。 [银行官网](https://www.asia.ccb.com/hongkong/aboutus/career_opportunities/graduate_opportunities/index.html) · [城大招聘公告](https://www.cb.cityu.edu.hk/careerdevelopment/careerfair/jobListing/index.cfm?c=ED91EA2C23C9AC4C565124DDBCAE959F8E546A7DC8A99B1C2027E2EFFC974729AF48C152CEA7F03E228FA339997E5042D1CBFB905670F6D02AC3290A66978097)
 
